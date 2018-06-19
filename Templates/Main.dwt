@@ -70,8 +70,16 @@
                 <ul>
                     <li><a href="../Home.html">Home</a></li>
                     <li><a href="../AboutUs.html">About Us</a></li>
-                    <li><a href="../Hospitals.html">Hospital Affiliations</a></li>
-                    <li><a href="#">Patient Information</a></li>
+                    <li><a href="../HospitalAffiliations.html">Hospital Affiliations</a></li>
+                    	<ul>
+                         	<li><a href="#">Patient Resources</a>
+                         		<ul>
+                                	<li><a href="#">Patient Forms</a> </li>
+                                    <li><a href="#">Patient Forms</a> </li>
+                                 </ul>
+                             </li>
+                       	</ul>
+                   
                     <li><a href="../Contact.html">Contact Us</a></li>
                 </ul>
             </div>
